@@ -1,0 +1,25 @@
+# 忽略Photoshop、Illustrator、Krita等设计软件的临时文件
+*.tmp
+*.bak
+*.autosave
+*.lock
+
+# 忽略Adobe系列自动备份
+*.psb
+*.ais
+
+# 忽略macOS/Windows系统垃圾
+.DS_Store
+Thumbs.db
+
+# 忽略 Krita / Affinity 临时缓存
+*.kra~
+*.afdesign~
+
+# 忽略临时导出或预览图（可选）
+*_preview.*
+*_export.*
+
+# 忽略编辑器配置（比如 VSCode）
+.vscode/
+.idea/
