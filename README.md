@@ -8,7 +8,7 @@ This repo showcases my personal design work, including:
 
 As I continue to grow this collection, some works will be shared directly here, while full projects will be published on Behance.
 Visit my Behance profile for complete project collections:  
-[View my work on Behance](https://www.behance.net/your-username)
+[View my work on Behance](https://www.behance.net/janity)
 
 ## Project Directory
 
