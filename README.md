@@ -3,8 +3,9 @@
 Welcome to my design portfolio repository!
 This repo showcases my personal design work, including:
 
-- **Graphic Design Projects** using Photoshop and Illustrator  
-- **Digital Illustrations** created with Procreate  
+- **Graphic Design** using Photoshop and Illustrator  
+- **Digital Illustrations** created with Procreate
+- **AI-generated-Art** generated with prompt
 
 As I continue to grow this collection, some works will be shared directly here, while full projects will be published on Behance.
 (Visit my Behance profile for complete project collections)[View my work on Behance](https://www.behance.net/janity)
@@ -13,7 +14,7 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 ## Project Directory
 
-### 1.Procreate art
+### 1. Digital illustrations
 
 #### Characters
 
@@ -21,13 +22,13 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 #### Landscapes
 
-[Landscape-fist-practice](procreate/landscape-first-practice.md)
+[Landscape-first-Practice](procreate/landscape-first-practice.md)
 
-### 2.Graphic Design
+### 2. Graphic Designs
 
 (uploading...)
 
-### 3.AI-generated-Art
+### 3. AI-generated-Arts
 
 (uploading...)
 
