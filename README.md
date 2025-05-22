@@ -17,7 +17,7 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 #### Characters
 
-[Character-Natsume](procreate/character-Natsume-practice.md)
+[Character-Natsume-Practice](procreate/character-Natsume-practice.md)
 
 #### Landscapes
 
