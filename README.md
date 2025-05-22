@@ -13,7 +13,7 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 ## Project Directory
 
-### Procreate art
+### 1.Procreate art
 
 #### Characters
 
@@ -23,11 +23,11 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 [Landscape-fist-practice](procreate/landscape-first-practice.md)
 
-### Graphic Design Projects
+### 2.Graphic Design
 
 (uploading...)
 
-### Digital Illustration 
+### 3.AI-generated-Art
 
 (uploading...)
 
