@@ -17,9 +17,11 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 #### Characters
 
-[Character-Natsume](procreate/Natsume-character-practice.md)
+[Character-Natsume](procreate/character-Natsume-practice.md)
 
 #### Landscapes
+
+
 
 ### Graphic Design Projects
 
