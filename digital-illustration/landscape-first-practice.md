@@ -1,4 +1,8 @@
-# Landscape Practice 01 - Light & Stairs (Procreate)
+---
+title: "Landscape Practice 01 - Light & Stairs"
+date: 2025-05-21
+categories: ["Digital illustration"]
+---
 
 These are my first Procreate landscape practice pieces, created by following a tutorial.  
 The focus of this study was to explore color balance, light direction, and brush layering in a floral environment.
