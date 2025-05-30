@@ -1,4 +1,8 @@
-# Character Practice 01 - Study of "Natsume's Book of Friends"
+---
+title: "Character Practice 01 - "Natsume's Book of Friends""
+date: 2025-05-20
+categories: ["Digital illustration"]
+---
 
 This is my very first digital drawing practice using Procreate.  
 The purpose was to improve my understanding of character emotion, color blending, and line control.
