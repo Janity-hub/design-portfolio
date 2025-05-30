@@ -23,6 +23,7 @@ As I continue to grow this collection, some works will be shared directly here, 
 #### Landscapes
 
 [Landscape-first-Practice](procreate/landscape-first-practice.md)
+
 [Reflection-on-Water-Practice](procreate/Reflections-on-Water-Practice.md)
 
 ### 2. Graphic Designs
