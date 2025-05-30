@@ -5,7 +5,7 @@ It’s a study piece where I tried to replicate a water reflection scene origina
 
 Her original work is rich in atmosphere: clouds, reflections, floating leaves, and ripples all intertwine to form a composition that feels very **Japanese-inspired**, poetic, and contemplative.
 
-![Water Reflection Practice](insert-your-image-link-here)
+![Water Reflection Practice]([img]https://i.imgur.com/MA4gY3Y.png[/img])
 
 ## What I Learned From Recreating This Scene
 
@@ -46,8 +46,6 @@ but I already feel how drawing can be both **a meditative escape** and **a meani
 # 水面倒影练习
 
 这是我最近完成的第二张 Procreate 风景画练习，尝试临摹了 @梦浮荼 的一张水面倒影作品。她的原作氛围感特别强：云层、倒影、落叶、水波彼此交织，构成了一个非常日系、又略带诗意的意象画面。
-
-![水面倒影练习图](插入你图片链接)
 
 ## 临摹这张画的感受
 
