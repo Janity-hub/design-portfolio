@@ -1,5 +1,5 @@
 ---
-title: "Character Practice 01 - "Natsume's Book of Friends""
+title: "Character Practice 01 - Natsume"
 date: 2025-05-20
 categories: ["Digital illustration"]
 ---
