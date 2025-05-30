@@ -1,4 +1,8 @@
-# Reflections on Water – A Procreate Practice
+---
+title: "Reflections on Water – A Procreate Practice"
+date: 2025-05-29
+categories: ["Digital illustration"]
+---
 
 This is the second landscape painting I completed recently using Procreate.  
 It’s a study piece where I tried to replicate a water reflection scene originally created by @梦浮荼.  
