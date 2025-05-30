@@ -5,7 +5,7 @@ It’s a study piece where I tried to replicate a water reflection scene origina
 
 Her original work is rich in atmosphere: clouds, reflections, floating leaves, and ripples all intertwine to form a composition that feels very **Japanese-inspired**, poetic, and contemplative.
 
-![Water Reflection Practice]([img]https://i.imgur.com/MA4gY3Y.png[/img])
+![Water Reflection Practice](https://i.imgur.com/MA4gY3Y.png)
 
 ## What I Learned From Recreating This Scene
 
