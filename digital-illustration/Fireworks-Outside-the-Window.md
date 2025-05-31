@@ -1,4 +1,8 @@
-# Fireworks Outside the Window —  Landscape Practice
+---
+title: "Fireworks Outside the Window —  Landscape Practice"
+date: 2025-05-29
+categories: ["Digital illustration"]
+---
 
 > *“A quiet celebration seen from indoors — light, warmth, and a little smile drawn in fog.”*
 
