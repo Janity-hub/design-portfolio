@@ -1,6 +1,6 @@
 ---
 title: "Fireworks Outside the Window —  Landscape Practice"
-date: 2025-05-29
+date: 2025-05-30
 categories: ["Digital illustration"]
 ---
 
