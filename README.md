@@ -22,6 +22,8 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 #### Landscapes
 
+[Fireworks-Outside-the-Window](digital-illustration/Fireworks-Outside-the-Window.md)
+
 [Reflection-on-Water-Practice](digital-illustration/Reflections-on-Water-Practice.md)
 
 [Landscape-first-Practice](digital-illustration/landscape-first-practice.md)
