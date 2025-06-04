@@ -1,10 +1,10 @@
 # First Portrait Retouching Practice
 
-![Before](https://i.imgur.com/bSPxHly.png)  
-*↑ Original*
-
 ![After](https://i.imgur.com/9Y3FsvF.png)  
 *↑ Retouched*
+
+![Before](https://i.imgur.com/bSPxHly.png)  
+*↑ Original*
 
 ## Focus of This Practice
 
