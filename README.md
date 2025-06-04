@@ -30,7 +30,9 @@ As I continue to grow this collection, some works will be shared directly here, 
 
 ### 2. Graphic Designs
 
-(uploading...)
+#### Photoshop Retouch
+
+[First Portrait Retouching Practice](photoshop-works/Portrait-Retouching-Practice.md)
 
 ### 3. AI-generated-Arts
 
