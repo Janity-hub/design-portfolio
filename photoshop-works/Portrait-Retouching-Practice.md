@@ -8,35 +8,35 @@
 
 ## Focus of This Practice
 
-> This piece focuses on classic retouching techniques:
-> - Frequency Separation for clean yet textured skin  
-> - Hue / Saturation / Lightness adjustments for tonal consistency  
-> - Basic tools including Clone Stamp, Healing Brush, Dodge & Burn
+This piece focuses on classic retouching techniques:
+- Frequency Separation for clean yet textured skin
+- Hue / Saturation / Lightness adjustments for tonal consistency  
+- Basic tools including Clone Stamp, Healing Brush, Dodge & Burn
 
 The goal was to correct the skin while maintaining realism and depth.
 
 ## Practice Notes
 
-> As my first structured portrait edit, I focused on realism and tonal harmony.  
-> I encountered technical issues such as:
-> - Hidden saturation artifacts exposed by visualization layers  
-> - Low-light color shifts hard to target via selection  
-> - Light shaping still needs refinement to boost depth
+As my first structured portrait edit, I focused on realism and tonal harmony.  
+I encountered technical issues such as:
+- Hidden saturation artifacts exposed by visualization layers  
+- Low-light color shifts hard to target via selection  
+- Light shaping still needs refinement to boost depth
 
 ## Series Note
 
-> This is the first piece in my themed retouching study series.  
-> Upcoming posts will explore:
-> - Inverse High Pass workflows  
-> - Skin unification with Gradient Maps  
-> - Facial structure enhancement via custom light mapping
+This is the first piece in my themed retouching study series.  
+Upcoming posts will explore:
+- Inverse High Pass workflows  
+- Skin unification with Gradient Maps  
+- Facial structure enhancement via custom light mapping
 
 ## Asset Note
 
-> Image was generated via AI for practice purposes only.  
-> No real person is depicted.
+Image was generated via AI for practice purposes only.  
+No real person is depicted.
  
-> Feedback is welcome — let’s grow together!
+Feedback is welcome — let’s grow together!
 
 ---
 
