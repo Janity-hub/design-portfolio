@@ -1,4 +1,8 @@
-# First Portrait Retouching Practice
+---
+title: "First Portrait Retouching Practice"
+date: 2025-06-03
+categories: ["Photoshop Works"]
+---
 
 ![After](https://i.imgur.com/9Y3FsvF.png)  
 *↑ Retouched*
