@@ -1,4 +1,8 @@
-# Photoshop Vignette Tutorial
+---
+title: "Photoshop Vignette Tutorial"
+date: 2025-06-03
+categories: ["Photoshop Works"]
+---
 
 > Goal: Create a soft, natural vignette effect where the center of the image stays bright and the edges darken to draw focus.
 
